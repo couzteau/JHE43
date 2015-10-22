@@ -1,0 +1,1 @@
+document.write('<script src="//use.typekit.net/rvi1fwz.js"></script>'),document.write("<script>try{Typekit.load();}catch(e){}</script>");
