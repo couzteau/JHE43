@@ -1,12 +1,15 @@
 .art-credits {
     position: fixed;
-    right: 15px;
+    right: 17px;
     color: gainsboro;
-    font-size: x-small;
+    font-size: 15px;
     opacity: 0.5;
 }
 
-.art-credits a:link {
+.art-credits a:link, a:visited {
+    color: gainsboro;
+}
+.art-credits a:visited {
     color: gainsboro;
 }
 
