@@ -1,3 +1,15 @@
+.art-credits {
+    position: fixed;
+    right: 15px;
+    color: gainsboro;
+    font-size: x-small;
+    opacity: 0.5;
+}
+
+.art-credits a:link {
+    color: gainsboro;
+}
+
 .wp-scrollbar {
     z-index: 5;
     position: absolute;
